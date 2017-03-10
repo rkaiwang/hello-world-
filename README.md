@@ -1,3 +1,9 @@
+# hello-world
+
+Hi fellow peeps. The name's Ruokai and I have a cat named Daisy. 
+Maybe one day I'll make a touchscreen app so that she can catch lizards 
+virtually instead of bringing them in from the garden D: 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rkaiwang/hello-world-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
